@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **creating new personal projects and learning React JS along with Next JS**
 
-- 🌱 I’m currently learning **Advanced React JS**
+- 🌱 I’m currently learning **Advanced React JS, NextJS and ChakraUI**
 
 - 👯 I’m looking to collaborate on **open source projects and Frontend devs**
 
 - 💬 Ask me about **React and Javascript**
 
-- ⚡ Fun fact **I love volleyball and make cats purr**
+- ⚡ Fun fact **I love volleyball and microwaving ice cream**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
